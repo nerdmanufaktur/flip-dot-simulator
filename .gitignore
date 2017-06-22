@@ -1,0 +1,6 @@
+# Project files
+.idea/
+*.iml
+
+# Compiled python
+__pycache__/
